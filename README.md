@@ -2,6 +2,9 @@
 ## What is cubecraft.js ?
 cubecraft.js is a JavaScript API for get data from CubeCraft.
 
+## How to install ?
+`npm install --save github:Seyz123/cubecraft.js`
+
 ## Usage
 You can see `tests/index.js` for an example.
 ### Get SkyWars leaderboard by platform :
