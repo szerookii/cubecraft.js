@@ -1,0 +1,16 @@
+{
+  "name": "cubecraft.js",
+  "version": "1.0.0",
+  "description": "A JavaScript API for get data from CubeCraft.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node tests/index.js"
+  },
+  "keywords": [],
+  "author": "Seyz",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "node-html-parser": "^1.1.16"
+  }
+}
