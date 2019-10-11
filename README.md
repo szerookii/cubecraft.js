@@ -13,3 +13,6 @@ cc.getLeaderboardData("bedrock", "skywars").then(function(data){
 	console.error(error);
 });
 ```
+
+## Status
+Work in progress...
