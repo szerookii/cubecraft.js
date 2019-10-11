@@ -1,7 +1,9 @@
 const cc = require("../");
 
-cc.getLeaderboardData("bedrock", "skywars").then(function(data){
-	console.log(data);
-}).catch(function(error){
-	console.error(error);
-});
+setInterval(() => {
+	cc.getOnlineData().then(function(data){
+		console.log(data);
+	}).catch(function(error){
+		console.log(error.stack);
+	});
+}, 500)
