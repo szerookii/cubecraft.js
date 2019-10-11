@@ -3,6 +3,7 @@
 cubecraft.js is a JavaScript API for get data from CubeCraft.
 
 ## How to install ?
+Run :
 `npm install --save github:Seyz123/cubecraft.js`
 
 ## Usage
