@@ -1,4 +1,4 @@
-# cubecraft.js [![Codacy Badge](https://api.codacy.com/project/badge/Grade/1f41acd33d944d2eac983189b7c2d14c)](https://www.codacy.com/manual/Seyz123/cubecraft.js?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Seyz123/cubecraft.js&amp;utm_campaign=Badge_Grade)
+# cubecraft.js [![Codacy Badge](https://api.codacy.com/project/badge/Grade/1f41acd33d944d2eac983189b7c2d14c?style=for-the-badge)](https://www.codacy.com/manual/Seyz123/cubecraft.js?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Seyz123/cubecraft.js&amp;utm_campaign=Badge_Grade)
 ## What is cubecraft.js
 cubecraft.js is a JavaScript API for get data from CubeCraft.
 
