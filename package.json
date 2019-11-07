@@ -1,6 +1,6 @@
 {
   "name": "cubecraft.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A JavaScript API for get data from CubeCraft.",
   "main": "lib/index.js",
   "scripts": {
